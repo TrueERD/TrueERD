@@ -14,7 +14,7 @@
 [ Media      ] ─── Atmospheric & minimalist post-production (Premiere).
 
 ┌── Проекты / Current Projects
-•	Eskalane Core ── Managing private development, tools, and layouts.
+•	TrueERD Core ── Managing private development, tools, and layouts.
 •	OS Environment ── Fine-tuning kernel modules and workspace configurations.
 ┌── Контакты / Connect
 •	Discord ── ne.eskalane
