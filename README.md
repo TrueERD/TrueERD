@@ -1,20 +1,23 @@
-# ■ TrueERD DEPLOYMENT
+# Hi, I'm Danya
 
-```json
-{
-  "developer": "Danya",
-  "status": "Active",
-  "location": "Warsaw, Poland",
-  "stack": ["JavaScript", "Node.js", "Bash"],
-  "focus": "Advanced Discord infrastructure & system optimization"
-}
-┌── Спецификация / Specialization
-[ Automation ] ─── Custom bot ecosystems, ticket systems, core logic.
-[ Systems    ] ─── Arch Linux environment customization & scripting.
-[ Media      ] ─── Atmospheric & minimalist post-production (Premiere).
+**19 y.o. | Warsaw, Poland | Python / JavaScript Developer**
 
-┌── Проекты / Current Projects
-•	TrueERD Core ── Managing private development, tools, and layouts.
-•	OS Environment ── Fine-tuning kernel modules and workspace configurations.
-┌── Контакты / Connect
-•	Discord ── ne.eskalane
+I build bots, AI agents, apps, and scripts. I like automation, useful tools, and turning ideas into working products.
+
+---
+
+### Stack
+
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF)
+
+---
+
+```text
+Bots  |  AI Agents  |  Apps  |  Scripts
+```
+
+[![Telegram](https://img.shields.io/badge/Telegram-111827?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/modsdev)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/TrueERD)
