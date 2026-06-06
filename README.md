@@ -39,8 +39,8 @@ const danya = {
 
 ## github stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff3ea5&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff3ea5&text_color=c9d1d9" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TrueERD&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff3ea5&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrueERD&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff3ea5&text_color=c9d1d9" alt="Top languages" />
 
 <br />
 <br />
