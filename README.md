@@ -65,7 +65,7 @@ const danya = {
 
 ## connect
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/TrueERD">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="#">
@@ -78,7 +78,7 @@ const danya = {
 <br />
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=ff3ea5&label=profile+views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=TrueERD&style=for-the-badge&color=ff3ea5&label=profile+views" alt="Profile views" />
 
 </div>
 
