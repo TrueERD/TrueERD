@@ -37,31 +37,7 @@ const danya = {
 
 <div align="center">
 
-## github stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TrueERD&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff3ea5&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrueERD&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff3ea5&text_color=c9d1d9" alt="Top languages" />
-
-<br />
-<br />
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=FF3EA5&fire=FF3EA5&currStreakLabel=FF3EA5&sideNums=58A6FF&currStreakNum=58A6FF" alt="GitHub streak" />
-
-</div>
-
----
-
-## projects
-
-| project | description | stack |
-|---|---|---|
-| coming soon | a useful Python project is loading | Python |
-| coming soon | web idea in progress | JavaScript / Node.js |
-| coming soon | something experimental | Python / JS |
-
----
-
-<div align="center">
 
 ## connect
 
